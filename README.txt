@@ -1,2 +1,2 @@
 # exercice
-fichier tette demandé
+fichier texte demandé
